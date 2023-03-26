@@ -1,0 +1,2 @@
+var=("estrumu")
+print (var)
